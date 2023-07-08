@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petsnack</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="icon" type="image/png" href='./img/icone-logo.png' />
+
+</head>
+
+<body>
+    <section>
+
+        <div class="pagina">
+            <div class="justificar-vertical">
+                <div class="titulo">
+                    <h1 class="titulo-petsnack">PETSNACK WHATSAPP</h1>
+                    <img class="imagem-whats" src="./img/what.png" style="width: 50px; height: 50px;">
+                </div>
+                <div class="container">
+                    <div class="form-btn">
+                        <div class="agrupador-form">
+                            <form class="agrupador-input" id="form-data">
+                                <label>
+                                    <span class="span-input">Telefones</span>
+                                    <input type="text" name="telefones"
+                                        placeholder="Ex: 5198584578,1489585856,5199865324"  required/>
+                                </label>
+
+                                <label>
+                                    <span id="span-mensagem" class="span-input">Mensagem</span>
+                                    <textarea id="text-area" type="textarea" name='mensagem' rows="7" required>🐾🐾🐶🐱  Olá! Seu pet merece o melhor sabor e qualidade! Experimente nossos deliciosos patês, bifinhos, coxinhas, biscoitos de diversos sabores, cup cakes e bolos de aniversários, especialmente para animais de estimação. Feitos com ingredientes naturais e muito amor, proporcionam uma experiência única para seu amiguinho de quatro patas. Faça seu pedido agora e proporcione momentos de pura felicidade para o seu peludinho! 🐩🐈🐾🐾 
+                                </textarea>
+                                </label>
+                                <div style="display: flex; flex-direction: column; gap: 15px;">
+
+                                    <button type="submit">
+                                        <span>Enviar whatsapp</span>
+                                        <svg viewBox="-5 -5 110 110" preserveAspectRatio="none" aria-hidden="true">
+                                            <path
+                                                d="M0,0 C0,0 100,0 100,0 C100,0 100,100 100,100 C100,100 0,100 0,100 C0,100 0,0 0,0" />
+                                        </svg>
+                                    </button>
+
+
+                                </div>
+
+
+                            </form>
+
+
+                        </div>
+
+                        <div>
+                            <button class="button-33" role="button" id="conectaWhats-btn" style="margin-left: 135px;"
+                                onclick="conectarWhatsapp()">Conectar whatsapp
+                            </button>
+                        </div>
+
+                        <div class="demo-preview" >
+                            <div id="mensagem-cliente">
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="agrupador-imagem">
+                        <img src="./img/logo.jpg" style="width: 550px; border-radius: 0 7px 7px 0;">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="./script.js"></script>
+</body>
+
+</html>

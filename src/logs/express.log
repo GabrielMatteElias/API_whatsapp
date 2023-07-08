@@ -1,0 +1,816 @@
+
+Request: POST /teste at Mon Mar 13 2023 15:45:00 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154500.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 1.865 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:45:51 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154551.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 1.534 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:45:54 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154554.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.652 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:45:55 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154555.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.326 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:46:02 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154602.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.194 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:46:29 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154628.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.382 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:47:31 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154731.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 1.508 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:47:33 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154733.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.631 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:48:11 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154811.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.441 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:48:35 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154835.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.439 ms 
+
+Request: POST /teste at Mon Mar 13 2023 15:48:51 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51911111111",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1542370796_20230313_154851.pdf",
+	"nomedevedor": "ROMARIO SOUSA DE OLIVEIRA"
+}
+Response: 404 0.190 ms 
+
+Request: POST /teste at Mon Mar 13 2023 16:54:31 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165431.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response: 404 1.930 ms 
+
+Request: POST /teste at Mon Mar 13 2023 16:54:54 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165454.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response: 404 1.203 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:58:35 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165834.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 1013.825 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:58:37 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165836.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 825.079 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:58:40 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165839.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 755.072 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:58:42 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165841.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 899.222 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:58:54 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165853.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 1160.977 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:58:57 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165856.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 808.082 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:59:03 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165902.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 784.145 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 16:59:05 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_165904.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 714.342 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 17:04:28 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_170427.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 252.579 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 17:05:13 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_170512.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 263.848 ms 
+
+Request: POST /envia-whats at Mon Mar 13 2023 17:05:13 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230313_170513.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 247.496 ms 
+
+Request: POST /conecta-whats at Tue Mar 14 2023 08:23:02 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099"
+}
+Response: - - ms 
+
+Request: POST /conecta-whats at Tue Mar 14 2023 08:24:52 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099"
+}
+Response Body:
+2@H4vDuCSdtHvQJtGj/mpFTDHejhX9QiPxUZohxg4lP9yXwT1dJM+BYYsbV7G0NRUKZpkKJgXXjkkkow==,rE71QQNqwtCO6GE9F4FZm1WMUVMHaZZQ/AFMkg8MnT4=,vFc2Xc1RftMRMcztS0wCIuNNQose7QtkBWXJr/CB/ik=,E82bWXZUB6QSdz27/fwjp1dmdEM7//ThHa8nAAPfvPo=
+Response: 200 13845.730 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 08:25:58 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_082555.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 3780.921 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:34:48 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093447.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 292.748 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:03 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093502.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 307.891 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:06 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093505.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 243.452 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:08 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093507.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 244.296 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:09 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093509.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 271.022 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:10 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093509.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 358.441 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:11 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093511.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 253.901 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:12 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093512.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 337.170 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:13 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093512.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 483.796 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:35:14 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093513.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 397.771 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:38:36 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093835.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 265.078 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:38:36 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56490",
+	"nomeboleto": "1532000308_20230314_093836.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 290.155 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:38:51 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093850.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 300.043 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:38:52 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093851.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 259.090 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:39:15 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_093915.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 327.699 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:39:16 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56490",
+	"nomeboleto": "1532000308_20230314_093915.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 447.442 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:49:08 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_094905.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 3291.829 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:49:38 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_094935.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 3271.548 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:55:26 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095522.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 3299.758 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:55:29 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095526.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 3264.270 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:56:40 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095640.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 256.646 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:56:41 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095641.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 349.936 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:57:04 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095704.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 289.730 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:57:07 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095707.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 327.026 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:57:17 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095717.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 421.205 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:57:18 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095717.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 310.630 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:57:34 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095734.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 272.370 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:57:35 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095734.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 246.200 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:59:16 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095915.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 313.244 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:59:17 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095917.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 338.735 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:59:19 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095919.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 376.843 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 09:59:21 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_095920.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 256.009 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 10:00:02 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51985146811",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_100002.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 269.273 ms 
+
+Request: POST /envia-whats at Tue Mar 14 2023 10:00:03 GMT-0300, IP: ::ffff:192.168.210.181, User Agent: python-requests/2.27.1
+Request Body:
+{
+	"telefone_whats": "51984287099",
+	"telefone": "51984287099",
+	"unidade": "XXX",
+	"iduser": "56464",
+	"nomeboleto": "1532000308_20230314_100003.pdf",
+	"nomedevedor": "ELISANGELA SILVA DOS"
+}
+Response Body:
+true
+Response: 200 319.641 ms 
